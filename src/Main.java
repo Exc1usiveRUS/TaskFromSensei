@@ -8,6 +8,7 @@ public class Main {
         System.out.println(calculator.calculateMidArithmetic(3, testArray));
         System.out.println(calculator.calculateMedian(3, testArray));
         System.out.println(calculator.calculateMedian(2, testArray));
+        System.out.println(calculator.calculateMedian(4, testArray));
         System.out.println(calculator.calculateMidQuad(3, testArray));
     }
 }
